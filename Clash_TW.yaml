@@ -8,3 +8,5 @@
   - DOMAIN-SUFFIX,dcard.tw,🇹🇼 台灣串流
   - DOMAIN-SUFFIX,www.8591.com.tw,🇹🇼 台灣串流
   - DOMAIN-SUFFIX,maicoin.com,🇹🇼 台灣串流
+  - GEOIP, CN,🚀 直接連線
+  - MATCH,⚓️ 其他類型
