@@ -11,6 +11,8 @@ DOMAIN-SUFFIX,discord.com,🔰 選取節點
 DOMAIN-SUFFIX,discord.gg,🔰 選取節點
 DOMAIN-SUFFIX,chatgpt.com,🔰 選取節點
 DOMAIN-SUFFIX,missav.com,🔰 選取節點
+DOMAIN-SUFFIX,www.tradingview.com,🔰 選取節點
+DOMAIN-SUFFIX,www.pionex.com,🔰 選取節點
 DOMAIN-SUFFIX,eltaott.tv,🇹🇼 台灣串流
 DOMAIN-SUFFIX,dcard.tw,🇹🇼 台灣串流
 DOMAIN-SUFFIX,www.8591.com.tw,🇹🇼 台灣串流
