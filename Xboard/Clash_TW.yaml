@@ -23,5 +23,5 @@
   - DOMAIN-SUFFIX,dcard.tw,🔰 境外流量
   - DOMAIN-SUFFIX,www.8591.com.tw,🔰 境外流量
   - DOMAIN-SUFFIX,maicoin.com,🔰 境外流量
-  - GEOIP, CN,🔘 Direct
+  - GEOIP, CN,DIRECT
   - MATCH,🔰 境外流量
