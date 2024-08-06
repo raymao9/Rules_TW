@@ -1,6 +1,6 @@
 # NAME: TW
 # REPO: https://github.com/raymao9/Rules_TW
-# UPDATED: 2024-01-19
+# UPDATED: 2024-08-06
 DOMAIN-KEYWORD,surveycake.com
 DOMAIN-KEYWORD,pchome.com.tw
 DOMAIN-SUFFIX,eltaott.tv
@@ -18,9 +18,3 @@ DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,missav.com
 DOMAIN-SUFFIX,www.tradingview.com
 DOMAIN-SUFFIX,www.pionex.com
-DOMAIN-SUFFIX,cdn.linktofish.com
-DOMAIN-SUFFIX,portal.linktofish.com
-DOMAIN-SUFFIX,web.linktofish.shop
-DOMAIN-SUFFIX,linktofish.b-cdn.net
-DOMAIN-SUFFIX,node.jssub.site
-DOMAIN-SUFFIX,rapps.fun

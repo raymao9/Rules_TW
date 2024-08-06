@@ -17,6 +17,7 @@ DOMAIN-SUFFIX,eltaott.tv,🔰 境外流量
 DOMAIN-SUFFIX,dcard.tw,🔰 境外流量
 DOMAIN-SUFFIX,www.8591.com.tw,🔰 境外流量
 DOMAIN-SUFFIX,maicoin.com,🔰 境外流量
+DOMAIN-SUFFIX,wsschatpush.miguvideo.com,🔘 Direct
 DOMAIN-KEYWORD, -cn,🔘 Direct
 GEOIP, CN,🔘 Direct
 FINAL,🔰 境外流量
