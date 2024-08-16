@@ -1,5 +1,5 @@
 
-  # Wechat 海外版
+  # Wechat.com
 
   - DOMAIN-SUFFIX,szaxshort.weixin.qq.com,DIRECT
   - DOMAIN-SUFFIX,axshort.weixin.qq.com,DIRECT
@@ -82,7 +82,7 @@
   - IP-CIDR,101.32.0.0/16,DIRECT
   - IP-CIDR,129.226.0.0/16,DIRECT
 
-  # 用戶規則
+  # Customized
 
   - DOMAIN-KEYWORD,surveycake.com,🔰 境外流量
   - DOMAIN-KEYWORD,pchome.com.tw,🔰 境外流量
