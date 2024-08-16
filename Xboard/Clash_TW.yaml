@@ -1,5 +1,5 @@
 
-  # Wechat 國際版
+  # Wechat 海外版
 
   - DOMAIN-SUFFIX,szaxshort.weixin.qq.com,DIRECT
   - DOMAIN-SUFFIX,axshort.weixin.qq.com,DIRECT
@@ -74,9 +74,13 @@
   - DOMAIN-SUFFIX,c6.y.qq.com,DIRECT
   - DOMAIN-SUFFIX,weixin.qq.com,DIRECT
   - DOMAIN-SUFFIX,wx.qlogo.cn,DIRECT
+  - DOMAIN-SUFFIX,snsvideo.c2c.wechat.com,DIRECT
+  - DOMAIN-SUFFIX,socwxsns.video.qq.com,DIRECT
   - DOMAIN-SUFFIX,wxapp.tc.qq.com,DIRECT
   - DOMAIN-SUFFIX,emoji.qpic.cn,DIRECT
   - DOMAIN-SUFFIX,resstatic.servicewechat.com,DIRECT
+  - IP-CIDR,101.32.0.0/16,DIRECT
+  - IP-CIDR,129.226.0.0/16,DIRECT
 
   # 用戶規則
 
@@ -98,6 +102,9 @@
   - DOMAIN-SUFFIX,www.8591.com.tw,🔰 境外流量
   - DOMAIN-SUFFIX,maicoin.com,🔰 境外流量
   - DOMAIN-SUFFIX,miguvideo.com,DIRECT
+  
+  # Final
+  
   - DOMAIN-SUFFIX,cn,DIRECT
   - DOMAIN-KEYWORD,-cn,DIRECT
   - GEOIP,CN,DIRECT
