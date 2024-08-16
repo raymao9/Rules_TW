@@ -84,6 +84,7 @@
 
   # Customized
 
+  - DOMAIN-SUFFIX,miguvideo.com,DIRECT
   - DOMAIN-KEYWORD,surveycake.com,🔰 境外流量
   - DOMAIN-KEYWORD,pchome.com.tw,🔰 境外流量
   - DOMAIN-SUFFIX,www.nextbank.com.tw,🔰 境外流量
@@ -101,7 +102,15 @@
   - DOMAIN-SUFFIX,dcard.tw,🔰 境外流量
   - DOMAIN-SUFFIX,www.8591.com.tw,🔰 境外流量
   - DOMAIN-SUFFIX,maicoin.com,🔰 境外流量
-  - DOMAIN-SUFFIX,miguvideo.com,DIRECT
+  - DOMAIN-SUFFIX,www.binance.com,🔰 境外流量
+  - DOMAIN-SUFFIX,minepi.com,🔰 境外流量
+  - DOMAIN-SUFFIX,www.pionex.com,🔰 境外流量
+  - DOMAIN-SUFFIX,gov.tw,🔰 境外流量
+  - DOMAIN-SUFFIX,gov.taipei,🔰 境外流量
+  - DOMAIN-SUFFIX,technews.tw,🔰 境外流量
+  - DOMAIN-SUFFIX,ebc.net.tw,🔰 境外流量
+  - DOMAIN-SUFFIX,tstartel.com,🔰 境外流量
+  - DOMAIN-SUFFIX,managertoday.com.tw,🔰 境外流量
   
   # Final
   
