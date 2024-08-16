@@ -20,4 +20,5 @@
   - DOMAIN-SUFFIX,miguvideo.com,DIRECT
   - DOMAIN-KEYWORD,-cn,DIRECT
   - GEOIP,CN,DIRECT
+  - GEOSITE,cn,DIRECT
   - MATCH,🔰 境外流量
