@@ -119,6 +119,12 @@
   - DOMAIN-SUFFIX,tstartel.com,🔰 境外流量
   - DOMAIN-SUFFIX,managertoday.com.tw,🔰 境外流量
   
+  # Traveler
+  - DOMAIN-SUFFIX,traveler.rapps.fun,DIRECT
+  - DOMAIN-SUFFIX,traveler.rapps.click,DIRECT
+  - DOMAIN-SUFFIX,traveler.rapps.download,DIRECT
+  - DOMAIN-SUFFIX,traveler2.rapps.download,DIRECT
+  
   # Final
   
   - DOMAIN-SUFFIX,cn,DIRECT

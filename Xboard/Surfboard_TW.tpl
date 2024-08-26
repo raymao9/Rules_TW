@@ -1,5 +1,10 @@
 # 用戶規則
 
+DOMAIN-SUFFIX,miguvideo.com,🔘 Direct
+DOMAIN-SUFFIX,steamcontent.com,🔘 Direct
+DOMAIN-SUFFIX,steamstatic.com,🔘 Direct
+DOMAIN-SUFFIX,steamserver.net,🔘 Direct
+DOMAIN-SUFFIX,rmbgame.net,🔘 Direct
 DOMAIN-KEYWORD,surveycake.com,🔰 境外流量
 DOMAIN-KEYWORD,pchome.com.tw,🔰 境外流量
 DOMAIN-SUFFIX,www.nextbank.com.tw,🔰 境外流量
@@ -17,7 +22,16 @@ DOMAIN-SUFFIX,eltaott.tv,🔰 境外流量
 DOMAIN-SUFFIX,dcard.tw,🔰 境外流量
 DOMAIN-SUFFIX,www.8591.com.tw,🔰 境外流量
 DOMAIN-SUFFIX,maicoin.com,🔰 境外流量
-DOMAIN-SUFFIX,miguvideo.com,🔘 Direct
+
+# Traveler
+
+DOMAIN-SUFFIX,traveler.rapps.fun,🔘 Direct
+DOMAIN-SUFFIX,traveler.rapps.click,🔘 Direct
+DOMAIN-SUFFIX,traveler.rapps.download,🔘 Direct
+DOMAIN-SUFFIX,traveler2.rapps.download,🔘 Direct
+
+# Final
+
 DOMAIN-KEYWORD, -cn,🔘 Direct
 GEOIP, CN,🔘 Direct
 FINAL,🔰 境外流量
