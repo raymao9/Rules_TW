@@ -91,6 +91,9 @@
   - DOMAIN-SUFFIX,steamstatic.com,DIRECT
   - DOMAIN-SUFFIX,steamserver.net,DIRECT
   - DOMAIN-SUFFIX,rmbgame.net,DIRECT
+  - DOMAIN-SUFFIX,adobe.io,REJECT
+  - DOMAIN-SUFFIX,adobestats.io,REJECT
+  - DOMAIN,lcs-cops.adobe.io,DIRECT
   - DOMAIN-SUFFIX,steampowered.com,🔰 境外流量
   - DOMAIN-KEYWORD,surveycake.com,🔰 境外流量
   - DOMAIN-KEYWORD,pchome.com.tw,🔰 境外流量
