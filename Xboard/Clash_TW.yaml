@@ -121,12 +121,16 @@
   - DOMAIN-SUFFIX,ebc.net.tw,🔰 境外流量
   - DOMAIN-SUFFIX,tstartel.com,🔰 境外流量
   - DOMAIN-SUFFIX,managertoday.com.tw,🔰 境外流量
+  - DOMAIN-SUFFIX,services.googleapis.cn,🔰 境外流量
   
   # Traveler
   - DOMAIN-SUFFIX,traveler.rapps.fun,DIRECT
   - DOMAIN-SUFFIX,traveler.rapps.click,DIRECT
   - DOMAIN-SUFFIX,traveler.rapps.download,DIRECT
   - DOMAIN-SUFFIX,traveler2.rapps.download,DIRECT
+  - DOMAIN-SUFFIX,sublink.rapps.click,DIRECT
+  - DOMAIN-SUFFIX,getrapps.com,DIRECT
+  - DOMAIN-SUFFIX,get.rapps.online,DIRECT
   
   # Final
   

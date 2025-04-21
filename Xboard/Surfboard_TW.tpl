@@ -22,6 +22,7 @@ DOMAIN-SUFFIX,eltaott.tv,🔰 境外流量
 DOMAIN-SUFFIX,dcard.tw,🔰 境外流量
 DOMAIN-SUFFIX,www.8591.com.tw,🔰 境外流量
 DOMAIN-SUFFIX,maicoin.com,🔰 境外流量
+DOMAIN-SUFFIX,services.googleapis.cn,🔰 境外流量
 
 # Traveler
 
@@ -29,6 +30,9 @@ DOMAIN-SUFFIX,traveler.rapps.fun,🔘 Direct
 DOMAIN-SUFFIX,traveler.rapps.click,🔘 Direct
 DOMAIN-SUFFIX,traveler.rapps.download,🔘 Direct
 DOMAIN-SUFFIX,traveler2.rapps.download,🔘 Direct
+DOMAIN-SUFFIX,sublink.rapps.click,🔘 Direct
+DOMAIN-SUFFIX,getrapps.com,🔘 Direct
+DOMAIN-SUFFIX,get.rapps.online,🔘 Direct
 
 # Final
 
