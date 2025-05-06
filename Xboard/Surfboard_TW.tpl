@@ -26,13 +26,6 @@ DOMAIN-SUFFIX,services.googleapis.cn,🔰 境外流量
 
 # Traveler
 
-DOMAIN-SUFFIX,traveler.rapps.fun,🔘 Direct
-DOMAIN-SUFFIX,traveler.rapps.click,🔘 Direct
-DOMAIN-SUFFIX,traveler.rapps.download,🔘 Direct
-DOMAIN-SUFFIX,traveler2.rapps.download,🔘 Direct
-DOMAIN-SUFFIX,sublink.rapps.click,🔘 Direct
-DOMAIN-SUFFIX,getrapps.com,🔘 Direct
-DOMAIN-SUFFIX,get.rapps.online,🔘 Direct
 DOMAIN-SUFFIX,travelercn.b-cdn.net,🔰 境外流量
 DOMAIN-SUFFIX,traveler2.b-cdn.net,🔰 境外流量
 DOMAIN-SUFFIX,traveleross.b-cdn.net,🔰 境外流量
