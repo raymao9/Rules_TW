@@ -33,6 +33,10 @@ DOMAIN-SUFFIX,traveler2.rapps.download,🔘 Direct
 DOMAIN-SUFFIX,sublink.rapps.click,🔘 Direct
 DOMAIN-SUFFIX,getrapps.com,🔘 Direct
 DOMAIN-SUFFIX,get.rapps.online,🔘 Direct
+DOMAIN-SUFFIX,travelercn.b-cdn.net,🔰 境外流量
+DOMAIN-SUFFIX,traveler2.b-cdn.net,🔰 境外流量
+DOMAIN-SUFFIX,traveleross.b-cdn.net,🔰 境外流量
+DOMAIN-SUFFIX,travelertw.b-cdn.net,🔰 境外流量
 
 # Final
 
