@@ -134,4 +134,6 @@
   - DOMAIN-SUFFIX,cn,DIRECT
   - DOMAIN-KEYWORD,-cn,DIRECT
   - GEOIP,CN,DIRECT
+  - DOMAIN-SUFFIX,xn--ngstr-lra8j.com,DIRECT
+  - DOMAIN-KEYWORD,google,🔰 境外流量
   - MATCH,🔰 境外流量
