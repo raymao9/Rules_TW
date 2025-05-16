@@ -22,7 +22,12 @@ DOMAIN-SUFFIX,eltaott.tv,🔰 境外流量
 DOMAIN-SUFFIX,dcard.tw,🔰 境外流量
 DOMAIN-SUFFIX,www.8591.com.tw,🔰 境外流量
 DOMAIN-SUFFIX,maicoin.com,🔰 境外流量
+
+# Google Play
+
 DOMAIN-SUFFIX,services.googleapis.cn,🔰 境外流量
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com,DIRECT
+DOMAIN-KEYWORD,google,🔰 境外流量
 
 # Traveler
 
