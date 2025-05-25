@@ -121,6 +121,7 @@
   - DOMAIN-SUFFIX,ebc.net.tw,🔰 境外流量
   - DOMAIN-SUFFIX,tstartel.com,🔰 境外流量
   - DOMAIN-SUFFIX,managertoday.com.tw,🔰 境外流量
+  - DOMAIN-SUFFIX,www.mobile01.com,🔰 境外流量
 
   # Google Play
 
@@ -129,10 +130,13 @@
   - DOMAIN-KEYWORD,google,🔰 境外流量
   
   # Traveler
+  
   - DOMAIN-SUFFIX,travelercn.b-cdn.net,🔰 境外流量
   - DOMAIN-SUFFIX,traveler2.b-cdn.net,🔰 境外流量
   - DOMAIN-SUFFIX,traveleross.b-cdn.net,🔰 境外流量
   - DOMAIN-SUFFIX,travelertw.b-cdn.net,🔰 境外流量
+  - DOMAIN-SUFFIX,pototapay.com,🔰 境外流量
+  - DOMAIN-SUFFIX,api.xinanpay.com,🔰 境外流量
   
   # Final
   

@@ -22,6 +22,7 @@ DOMAIN-SUFFIX,eltaott.tv,🔰 境外流量
 DOMAIN-SUFFIX,dcard.tw,🔰 境外流量
 DOMAIN-SUFFIX,www.8591.com.tw,🔰 境外流量
 DOMAIN-SUFFIX,maicoin.com,🔰 境外流量
+DOMAIN-SUFFIX,www.mobile01.com,🔰 境外流量
 
 # Google Play
 
