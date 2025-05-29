@@ -127,6 +127,7 @@
 
   - DOMAIN-SUFFIX,services.googleapis.cn,🔰 境外流量
   - DOMAIN-SUFFIX,xn--ngstr-lra8j.com,DIRECT
+  - DOMAIN-SUFFIX,clientservices.googleapis.com,🔰 境外流量
   - DOMAIN-KEYWORD,google,🔰 境外流量
   
   # Traveler
@@ -137,10 +138,3 @@
   - DOMAIN-SUFFIX,travelertw.b-cdn.net,🔰 境外流量
   - DOMAIN-SUFFIX,pototapay.com,🔰 境外流量
   - DOMAIN-SUFFIX,api.xinanpay.com,🔰 境外流量
-  
-  # Final
-  
-  - DOMAIN-SUFFIX,cn,DIRECT
-  - DOMAIN-KEYWORD,-cn,DIRECT
-  - GEOIP,CN,DIRECT
-  - MATCH,🔰 境外流量

@@ -28,6 +28,7 @@ DOMAIN-SUFFIX,www.mobile01.com,🔰 境外流量
 
 DOMAIN-SUFFIX,services.googleapis.cn,🔰 境外流量
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com,DIRECT
+DOMAIN-SUFFIX,clientservices.googleapis.com,🔰 境外流量
 DOMAIN-KEYWORD,google,🔰 境外流量
 
 # Traveler
@@ -36,9 +37,3 @@ DOMAIN-SUFFIX,travelercn.b-cdn.net,🔰 境外流量
 DOMAIN-SUFFIX,traveler2.b-cdn.net,🔰 境外流量
 DOMAIN-SUFFIX,traveleross.b-cdn.net,🔰 境外流量
 DOMAIN-SUFFIX,travelertw.b-cdn.net,🔰 境外流量
-
-# Final
-
-DOMAIN-KEYWORD, -cn,🔘 Direct
-GEOIP, CN,🔘 Direct
-FINAL,🔰 境外流量
