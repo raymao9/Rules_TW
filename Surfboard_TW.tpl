@@ -13,9 +13,12 @@ DOMAIN-SUFFIX,chatgpt.com,🔰 選取節點
 DOMAIN-SUFFIX,missav.com,🔰 選取節點
 DOMAIN-SUFFIX,www.tradingview.com,🔰 選取節點
 DOMAIN-SUFFIX,www.pionex.com,🔰 選取節點
+DOMAIN-SUFFIX,js.stripe.com,🔰 選取節點
 DOMAIN-SUFFIX,eltaott.tv,🇹🇼 台灣串流
 DOMAIN-SUFFIX,dcard.tw,🇹🇼 台灣串流
 DOMAIN-SUFFIX,www.8591.com.tw,🇹🇼 台灣串流
 DOMAIN-SUFFIX,maicoin.com,🇹🇼 台灣串流
+DOMAIN-SUFFIX,eccs.tradevan.com.tw,🇹🇼 台灣串流
+DOMAIN-SUFFIX,peccs.egress.tcs.tradevan.net,🇹🇼 台灣串流
 GEOIP, CN,🚀 直接連線
 MATCH,⚓️ 其他類型
