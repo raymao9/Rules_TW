@@ -144,3 +144,9 @@
   - DOMAIN-SUFFIX,travelertw.b-cdn.net,🔰 境外流量
   - DOMAIN-SUFFIX,pototapay.com,🔰 境外流量
   - DOMAIN-SUFFIX,api.xinanpay.com,🔰 境外流量
+
+  # REJECT UDP 53
+  - IP-CIDR,8.8.8.8/32,🔰 境外流量
+  - IP-CIDR,8.8.4.4/32,🔰 境外流量
+  - IP-CIDR,1.1.1.1/32,🔰 境外流量
+  - IP-CIDR,1.0.0.1/32,🔰 境外流量
