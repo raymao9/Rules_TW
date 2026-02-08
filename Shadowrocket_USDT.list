@@ -1,0 +1,36 @@
+# NAME: TW
+# REPO: https://github.com/raymao9/Rules_TW
+# UPDATED: 2026-02-08
+DOMAIN-KEYWORD,safepal
+DOMAIN-KEYWORD,trustwallet
+DOMAIN-KEYWORD,walletconnect
+DOMAIN-SUFFIX,walletconnect.org
+DOMAIN-SUFFIX,walletconnect.com
+DOMAIN-KEYWORD,infura
+DOMAIN-KEYWORD,alchemy
+DOMAIN-KEYWORD,ankr
+DOMAIN-KEYWORD,blockpi
+DOMAIN-KEYWORD,blastapi
+DOMAIN-KEYWORD,getblock
+DOMAIN-KEYWORD,quicknode
+DOMAIN-KEYWORD,p2p.org
+DOMAIN-KEYWORD,allnodes
+DOMAIN-SUFFIX,nodes.p360.build
+DOMAIN-SUFFIX,rpc.ankr.com
+DOMAIN-SUFFIX,chainstack.com
+DOMAIN-SUFFIX,etherscan.io
+DOMAIN-SUFFIX,bscscan.com
+DOMAIN-SUFFIX,solscan.io
+DOMAIN-SUFFIX,polygonscan.com
+DOMAIN-SUFFIX,snowtrace.io
+DOMAIN-SUFFIX,arbiscan.io
+DOMAIN-SUFFIX,optimistic.etherscan.io
+DOMAIN-SUFFIX,coingecko.com
+DOMAIN-SUFFIX,coinmarketcap.com
+DOMAIN-KEYWORD,binance
+DOMAIN-KEYWORD,okx
+DOMAIN-KEYWORD,bybit
+DOMAIN-KEYWORD,bitget
+DOMAIN-KEYWORD,gate.io
+DOMAIN-KEYWORD,kucoin
+DOMAIN-KEYWORD,mexc.com

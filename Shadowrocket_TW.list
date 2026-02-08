@@ -1,6 +1,6 @@
 # NAME: TW
 # REPO: https://github.com/raymao9/Rules_TW
-# UPDATED: 2025-11-14
+# UPDATED: 2026-02-08
 DOMAIN-KEYWORD,surveycake.com
 DOMAIN-KEYWORD,pchome.com.tw
 DOMAIN-SUFFIX,eltaott.tv
@@ -37,5 +37,3 @@ DOMAIN-SUFFIX,aurora.rapps.download
 DOMAIN-SUFFIX,pototapay.com
 DOMAIN-SUFFIX,api.xinanpay.com
 DOMAIN-SUFFIX,jlb.11tuan.top
-DOMAIN-KEYWORD,safepal
-DOMAIN-KEYWORD,trustwallet
